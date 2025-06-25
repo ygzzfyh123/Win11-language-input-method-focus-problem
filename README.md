@@ -1,0 +1,2 @@
+# Win11-language-input-method-focus-problem
+本脚本用于windows11特有的bug处理方式，使用我的脚本来避免复制粘贴后出现莫名哐哐和英文情况！先去网上自行安装Autohotkey然后来我这里下载我的脚本管理员运行即可，开机自启需要创建快捷方式属性高级管理员然后放到启动文件夹！
