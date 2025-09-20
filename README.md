@@ -1,6 +1,6 @@
 # Win11-language-input-method-focus-problem
 本脚本用于windows11特有的bug处理方式，使用我的脚本来避免复制粘贴后出现莫名哐哐和英文情况！先去网上自行安装Autohotkey然后来我这里下载我的脚本管理员运行即可，开机自启需要创建快捷方式属性高级管理员然后放到启动文件夹！
-此bug已通过我和多人反馈得到了官方的解决，如果你是21H2以上的版本请去下面这些链接安装msu补丁，如果你是21H2及以下那么可以继续用我的脚本！Thanks.此仓库已归档！
+此bug已通过我和多人反馈得到了官方的解决，如果你是21H2以上的版本请去下面这些链接安装msu补丁，如果你是21H2及以下那么可以继续用我的脚本！Thanks.此仓库已归档！（注意：24H2已内置该补丁的平替版本不需要安装新的补丁，更新windows即可）
 
 23H2：https://www.catalog.update.microsoft.com/Search.aspx?q=KB5058405&utm_source=chatgpt.com
 
